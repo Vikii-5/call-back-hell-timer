@@ -1,0 +1,11 @@
+body{
+ font-family: 'Poppins', sans-serif;
+ font-size: 1.5em;
+}
+
+.timer-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
